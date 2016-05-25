@@ -7,7 +7,7 @@ Before submitting a issue, please make sure you have the latest version of the s
 ```bash
 npm update <chikadi-package>
 ```
-or reclonng through Git
+or recloning through Git
 ```bash
 git clone <URL-to-chikadi-software>
 ```
