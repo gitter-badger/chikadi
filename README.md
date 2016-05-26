@@ -1,5 +1,7 @@
 # Welcome to Chikadi!
 
+[![Join the chat at https://gitter.im/chikadi/chikadi](https://badges.gitter.im/chikadi/chikadi.svg)](https://gitter.im/chikadi/chikadi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Chikadi (Pronounced Chickadee), is a tech company that produces programs, tools, and libraries that help developers and everyday folk!
 
 ### [Website](http://chikadi.github.io)&nbsp;&nbsp;&nbsp;[Contributing](https://github.com/chikadi/chikadi/blob/master/contributing.md)
